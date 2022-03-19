@@ -1,1 +1,1 @@
-# Basic of React router
+# Basics of React router
